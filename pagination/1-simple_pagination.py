@@ -1,5 +1,5 @@
-from 0-simple_helper_function import index_range
 #!/usr/bin/env python3
+index_range = __import__('0-simple_helper_function').index_range
 import csv
 import math
 from typing import List
