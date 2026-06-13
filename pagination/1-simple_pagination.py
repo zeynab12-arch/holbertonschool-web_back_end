@@ -1,3 +1,4 @@
+from 0-simple_helper_function import index_range
 #!/usr/bin/env python3
 import csv
 import math
