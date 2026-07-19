@@ -5,3 +5,8 @@ export default function returnHowManyArguments(...args) {
   }
   return count;
 }
+/*
+export default function returnHowManyArguments(...args) {
+  return args.length
+}
+*/
